@@ -1,0 +1,4 @@
+html {
+  background: radial-CanvasGradient(circle, #fff, #ccc);
+  height: 500px;
+}
