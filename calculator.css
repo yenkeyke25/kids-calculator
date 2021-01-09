@@ -167,6 +167,10 @@ html {
     height: 200px;
     width: 350px;
     background: linear-gradient(orange, rgb(168, 58, 58));
+    background: -moz-linear-gradient(orange, rgb(168, 58, 58));
+    background: -o-linear-gradient(orange, rgb(168, 58, 58));
+    background: -webkit-linear-gradient(orange, rgb(168, 58, 58));
+
     text-align: center;
     line-height: 50px;
     color: white;
